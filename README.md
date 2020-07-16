@@ -1,4 +1,4 @@
-![logo](https://github.com/jaelsondev/paguru_challenge_dart/blob/master/src/assets/logo.svg)
+![logo](https://github.com/jaelsondev/paguru_challenge_dart/blob/master/assets/logo.svg)
 
 **🔎 Introdução:** 
   
